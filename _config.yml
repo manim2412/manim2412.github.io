@@ -21,7 +21,7 @@ title                    : "manim2412"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "pjw"
-description              : "Developer Blog"
+description              : "개발 블로그"
 url                      : "https://manim2412.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : manim2412/manim2412.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -324,11 +324,15 @@ defaults:
       share: false
       related: false
       show_date: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      sidebar:
+        nav: "docs"
 
 date_format: "%Y-%m-%d"

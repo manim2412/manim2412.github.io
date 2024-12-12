@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Algorithm
+    children:
+      - title: "프로그래머스"
+        url: /algorithm/programmers/
+      - title: "리트코드"
+        url: /algorithm/leetcode/
