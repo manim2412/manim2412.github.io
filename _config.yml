@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "pjw"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer Blog"
+  bio              : "개발 블로그"
   location         : "South Korea"
   email            :
   links:
