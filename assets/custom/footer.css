@@ -11,6 +11,10 @@
     font-size: 80%;
 }
 
+.custom-footer a { 
+    text-decoration: none; 
+} 
+
 @media (min-width: 700px) {
     .jekyll-svg, 
     .minimal-mistakes-image { 
@@ -24,3 +28,13 @@
     }
 }
 
+
+.jekyll-svg {
+    position: relative;
+    top: 3px;
+}
+
+.minimal-mistakes-image {
+    position: relative;
+    bottom: 2px;
+}
