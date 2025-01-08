@@ -6,7 +6,7 @@
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
-    {% include head/custom.html %}
+    {% include custom/head.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
@@ -24,12 +24,15 @@
       </div>
     {% endif %}
 
-    <div id="footer" class="page__footer">
+    <!-- <div id="footer" class="page__footer">
       <footer>
-        {% include footer/custom.html %}
         {% include_cached footer.html %}
       </footer>
-    </div>
+    </div> -->
+
+    <footer class="custom-footer">
+      {% include_cached custom/footer.html %}
+    </footer>
 
     {% include scripts.html %}
   </body>
