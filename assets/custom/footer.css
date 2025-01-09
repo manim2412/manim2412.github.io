@@ -1,9 +1,10 @@
 .custom-footer {
     background-color: rgb(212 212 216);
-    margin-top: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     width: 100%;
 }
 
@@ -28,7 +29,6 @@
     }
 }
 
-
 .jekyll-svg {
     position: relative;
     top: 3px;
@@ -37,4 +37,11 @@
 .minimal-mistakes-image {
     position: relative;
     bottom: 2px;
+}
+
+.custom-copyright .github-logo-and-link {
+    position: relative; 
+    right: 3px;
+    font-size: 120%;
+    margin-bottom: 10px;
 }
