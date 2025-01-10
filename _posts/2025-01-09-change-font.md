@@ -23,13 +23,3 @@ $global-font-family : $serif;
         background-color: #E5E4E2;
     }
 </style>
-
-<script 
-    src="https://utteranc.es/client.js"
-    repo="manim2412/manim2412.github.io"
-    issue-term="pathname"
-    label="comment"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-</script>
