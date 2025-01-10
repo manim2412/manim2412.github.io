@@ -312,3 +312,6 @@ defaults:
       #   nav: "docs"
 
 date_format: "%Y-%m-%d"
+
+head_scripts:
+  - "/assets/js/utterances.js"
