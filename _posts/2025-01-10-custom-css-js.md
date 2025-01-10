@@ -26,8 +26,8 @@ head_scripts:
 ```
 
 ### 참조
-[Minimal Mistakes css](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)   
-[Minimal Mistakes js](https://mmistakes.github.io/minimal-mistakes/docs/javascript/)
+[https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)   
+[https://mmistakes.github.io/minimal-mistakes/docs/javascript/](https://mmistakes.github.io/minimal-mistakes/docs/javascript/)
 
 <style>
     .platinum {
