@@ -16,7 +16,7 @@ $global-font-family : $serif;
 글로벌 폰트가 <span class="platinum">$serif</span>로 적용되어 있으므로, 적용할 Google Font<span class="platinum">("PT Serif")</span>를 <span class="platinum">$serif</span> 변수 가장 앞에 추가해 준다.
 
 ### 참조
-[https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#typography-from-older-versions](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#typography-from-older-versions)
+[minimal mistakes docs](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#typography-from-older-versions)
 
 <style>
     .platinum {

@@ -26,11 +26,21 @@ head_scripts:
 ```
 
 ### 참조
-[https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)   
-[https://mmistakes.github.io/minimal-mistakes/docs/javascript/](https://mmistakes.github.io/minimal-mistakes/docs/javascript/)
+[minimal mistakes docs css](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)   
+[minimal mistakes docs js](https://mmistakes.github.io/minimal-mistakes/docs/javascript/)
 
 <style>
     .platinum {
         background-color: #E5E4E2;
     }
 </style>
+
+<script 
+    src="https://utteranc.es/client.js"
+    repo="manim2412/manim2412.github.io"
+    issue-term="pathname"
+    label="comment"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
