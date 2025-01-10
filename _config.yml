@@ -312,3 +312,5 @@ defaults:
       #   nav: "docs"
 
 date_format: "%Y-%m-%d"
+
+future: true

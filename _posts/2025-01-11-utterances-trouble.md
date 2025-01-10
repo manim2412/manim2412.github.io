@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "minimal-mistakes utterances 댓글 문제 해결"
+published: true
 --- 
 <details>
     <summary>Prerequisite</summary>
