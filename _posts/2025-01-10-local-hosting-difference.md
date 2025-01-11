@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "로컬에서 보이던 Minimal Mistakes 게시글이 GitHub Pages 배포 서버에서는 보이지 않는 문제"
+categories: mmistakes
 --- 
 <details>
     <summary>Prerequisite</summary>

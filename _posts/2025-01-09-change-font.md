@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "minimal-mistakes 폰트 변경하는 방법 (with Google Fonts)"
+categories: mmistakes
 ---
 
 ### 1. <span class="platinum">_includes/head.html</span>에 Google Script 추가

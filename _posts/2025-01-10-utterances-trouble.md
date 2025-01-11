@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "minimal-mistakes utterances 댓글 문제 해결"
+categories: mmistakes
 --- 
 <details>
     <summary>Prerequisite</summary>

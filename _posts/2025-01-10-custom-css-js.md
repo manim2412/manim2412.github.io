@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "minimal-mistakes 커스텀 css, js 적용 방법"
+categories: mmistakes
 ---
 ### 1. <span class="platinum">assets/css/main.scss</span> 파일에 적용할 custom css 문구 추가
 ```css
