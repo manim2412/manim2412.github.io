@@ -21,7 +21,7 @@ tags: [깃허브 블로그, Github Blog, Jekyll, minimal mistakes, jekyll-theme-
 # jekyll-theme-chirpy를 이용해서 깃허브 블로그 만들기
 
 <ol>
-    <li>[jekyll-theme-chirpy 깃허브](https://github.com/cotes2020/jekyll-theme-chirpy)에서 repository를 folk하고 주소는 [username]/[username].github.io으로 생성</li>
+    <li><a href="https://github.com/cotes2020/jekyll-theme-chirpy">jekyll-theme-chirpy 깃허브</a>에서 repository를 folk하고 주소는 [username]/[username].github.io으로 생성</li>
     (만약 본인 계정명이 "test1"이라면 test1/test1.github.io)
     <li>생성한 repository에서 <strong>Settings</strong> -> <strong>Pages</strong> -> <strong>Build and depleyment</strong>을 다음과 같이 설정</li>
     <img src="https://raw.githubusercontent.com/manim2412/image/main/settings-pages.png" alt="page settings"/>
