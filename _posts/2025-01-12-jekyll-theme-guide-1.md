@@ -1,6 +1,6 @@
 ---
 title: 깃허브 블로그 만들기 (1)
-date: 2025-01-13
+date: 2025-01-12
 categories: [jekyll-theme-chirpy]
 tags: [깃허브 블로그, Github Blog, Jekyll, minimal mistakes, jekyll-theme-chirpy]    
 ---

@@ -1,22 +1,9 @@
 ---
 title: 깃허브 블로그 만들기 (2)
-date: 2025-01-13
+date: 2025-01-12
 categories: [jekyll-theme-chirpy]
 tags: [깃허브 블로그, Github Blog, Jekyll, minimal mistakes, jekyll-theme-chirpy]    
 ---
-
-<details>
-    <summary>Windows 기준 미리 설치할 파일</summary>
-    <div>
-        <a href="https://www.docker.com/products/docker-desktop/">Docker Desktop</a>
-    </div>
-    <div>
-        <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-    </div>
-    <div>
-        <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers">Visual Studio Code Extensions</a>
-    </div>
-</details>
 
 # jekyll-theme-chirpy를 이용해서 깃허브 블로그 만들기
 
